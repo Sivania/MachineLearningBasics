@@ -1,3 +1,4 @@
+#From book: Make Your Own Neural Network
 import sys
 import numpy
 import scipy.special #Sigmoid activation function
